@@ -1,4 +1,4 @@
-from csp_telegram import *  # noqa
+from csp_telegram import *
 
 
 def test_all():
